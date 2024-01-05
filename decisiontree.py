@@ -1,9 +1,4 @@
 # Natural Language Toolkit: Decision Tree Classifiers
-#
-# Copyright (C) 2001-2019 NLTK Project
-# Author: Edward Loper <edloper@gmail.com>
-# URL: <http://nltk.org/>
-# For license information, see LICENSE.TXT
 
 """
 A classifier model that decides which label to assign to a token on
